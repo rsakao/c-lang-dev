@@ -9,5 +9,5 @@ gcc lib package and vim,emacs installed
 ## Usage
 ### run
 ```
-docker run -it clang-dev
+docker run -it rsakao/clang-dev
 ```
